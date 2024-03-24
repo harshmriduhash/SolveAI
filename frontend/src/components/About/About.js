@@ -36,7 +36,7 @@ export default function AboutUs() {
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				<div className="mx-auto max-w-2xl lg:mx-0">
 					<h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-						SolveAI - Revolutionizing Content Generation
+						Solve-AI - Revolutionizing Content Generation
 					</h2>
 					<p className="mt-6 text-lg leading-8 text-gray-300">
 						Solve-AI is at the forefront of content creation innovation. Leveraging advanced AI algorithms. we empower
