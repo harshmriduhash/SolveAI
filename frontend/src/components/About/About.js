@@ -12,7 +12,7 @@ const cards = [
 	{
 		name: 'Scalability and Flexibility',
 		description:
-			'Our platform is designed to grow with you, offering scalable solutions that adapt to your content needs. Whether you’re a solo blogger or a large enterprise, we provide the flexibility to support your content generation at any scale.',
+			'This platform is designed to grow with you, offering scalable solutions that adapt to your content needs. Whether you’re a solo blogger or a large enterprise, we provide the flexibility to support your content generation at any scale.',
 		icon: ChartBarIcon,
 	},
 	{
