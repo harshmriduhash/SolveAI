@@ -11,7 +11,6 @@ export default function HomeFeatures() {
 			<section className="relative py-12 md:py-24 lg:py-32 bg-body overflow-hidden">
 				<img src={background1} alt=" ai" className="absolute inset-0 -z-10 h-full w-full object-cover" />
 				<div className="absolute inset-0 -z-10 bg-opacity-90"></div>
-
 				<div className="relative container mx-auto px-4">
 					<div className="flex flex-wrap items-center -mx-4">
 						<div className="w-full lg:w-2/5 xl:w-1/2 px-6 mb-8 lg:mb-0">
