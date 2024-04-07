@@ -39,7 +39,7 @@ export default function AboutUs() {
 						Solve-AI  Revolutionizing Content Generation
 					</h2>
 					<p className="mt-6 text-lg leading-8 text-gray-300">
-						SolveAI is at the forefront of content creation innovation. Leveraging advanced AI algorithms. we empower
+						Solve-AI is at the forefront of content creation innovation. Leveraging advanced AI algorithms. we empower
 						creators to effortlessly produce compelling, high-quality content tailored to their unique needs.
 					</p>
 				</div>
