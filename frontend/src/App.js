@@ -19,7 +19,6 @@ import AboutUs from './components/About/About';
 
 export default function App() {
 	const { isAuthenticated } = useAuth();
-
 	return (
 		<>
 			<BrowserRouter>
