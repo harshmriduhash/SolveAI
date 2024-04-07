@@ -89,7 +89,7 @@ const Dashboard = () => {
             <h2 className="text-xl font-semibold mb-4">Payment & Plans</h2>
             <div>
               <p className="mb-4">
-                Current Plan: {data?.user?.subscriptionPlan}
+                Your Current Plan: {data?.user?.subscriptionPlan}
               </p>
               {data?.user?.subscriptionPlan === "Trial" && (
                 <p className="border rounded w-full py-2 px-3 mb-4 text-gray-800">
