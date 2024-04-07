@@ -25,7 +25,7 @@ export default function Home() {
 							<h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl"> SolveAI Generator</h1>
 							<p className="mt-6 text-lg leading-8 text-gray-300">
 								Solve-AI is a content generator that uses AI to generate content for you. It is a tool that helps you
-								generate content for your blog, website, or social media.
+								generate content for your blog, website, or you can use this for your social media.
 							</p>
 							<div className="mt-10 flex items-center justify-center gap-x-6">
 								<Link
