@@ -199,7 +199,7 @@ const AIContentGenerator = () => {
           {generatedContent && (
             <div className="mt-6 p-4 bg-gray-100 rounded-md">
               <h3 className="text-lg font-semibold text-gray-800 mb-2">
-                Generated Content:
+                Generated Content:-
               </h3>
               <p className="text-gray-600">{mutation?.data?.content}</p>
             </div>
