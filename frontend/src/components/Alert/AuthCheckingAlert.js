@@ -9,5 +9,4 @@ const AuthCheckingAlert = () => {
 		</div>
 	);
 };
-
 export default AuthCheckingAlert;
