@@ -84,7 +84,7 @@ const AIContentGenerator = () => {
 						{/* Prompt input field */}
 						<div>
 							<label htmlFor="prompt" className="block text-gray-700 text-sm font-semibold mb-2">
-								Enter a topic or any idea you want
+								Enter a topic or any idea you want the 
 							</label>
 							<input
 								id="prompt"
