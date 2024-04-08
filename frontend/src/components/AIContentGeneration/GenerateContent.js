@@ -107,7 +107,7 @@ const AIContentGenerator = () => {
 								id="tone"
 								{...formik.getFieldProps('tone')}
 								className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500">
-								<option value="">Choose a tone...</option>
+								<option value="">Choose a tone....</option>
 								<option value="formal">Formal</option>
 								<option value="informal">Informal</option>
 								<option value="humorous">Humorous</option>
