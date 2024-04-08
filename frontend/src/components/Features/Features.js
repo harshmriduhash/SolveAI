@@ -41,7 +41,7 @@ export default function AppFeatures() {
 						Revolutionizing Your Content Strategy
 					</p>
 					<p className="mt-6 text-lg leading-8 text-gray-300">
-						Experience the power of AI with SolveAI, an intelligent content generator powered by OpenAI that provides
+						Experience the power of AI with Solve-AI, an intelligent content generator powered by OpenAI that provides
 						high-quality, engaging content tailored specifically for you. Streamline your workflow and elevate your
 						creative output with content that truly resonates.
 					</p>
