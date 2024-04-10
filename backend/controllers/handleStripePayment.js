@@ -38,7 +38,7 @@ const handlePayment = asyncHandler(async (req, res) => {
   }
 });
 
-//* Vefify payment *//
+//* Verify payment *//
 const verifyPayment = asyncHandler(async (req, res) => {
   const { paymentId } = req.params;
   try {
