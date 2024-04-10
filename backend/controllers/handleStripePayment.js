@@ -38,7 +38,7 @@ const handlePayment = asyncHandler(async (req, res) => {
   }
 });
 
-//* Vefify payment
+//* Vefify payment *//
 const verifyPayment = asyncHandler(async (req, res) => {
   const { paymentId } = req.params;
   try {
@@ -155,5 +155,5 @@ const handleFreeSubscription = asyncHandler(async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 });
-
+`
 module.exports = { handlePayment, handleFreeSubscription, verifyPayment };
